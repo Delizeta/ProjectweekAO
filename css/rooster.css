@@ -1,0 +1,10 @@
+html{
+  margin: 0 auto;
+}
+
+body .main{
+width: 1200px;
+height: 1000px;
+background-color: white;
+margin: 0 auto;
+}

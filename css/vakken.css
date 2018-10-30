@@ -40,10 +40,18 @@
   background-color:rgb(103, 100, 95);
 }
 
+#Talen .Talen img
+{
+  float: right;
+  width: 100px;
+  height: 100px;
+  margin-right: 3%;
+}
+
 #Talen .Talen p
 {
   width: 80%;
-  height: 100px;
+  height: 110px;
   background-color:rgb(54, 52, 52) ;
   float:left;
   margin-left: 10%;

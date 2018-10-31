@@ -1,0 +1,141 @@
+.opmaak img
+{
+  width: 90%;
+  height: 200px;
+  border-radius: 10px;
+}
+
+h1
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+}
+
+#main .wat h2
+{
+  float: left;
+  margin-left: 25%;
+  margin-top: 5%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+#main .wat p
+{
+  float: left;
+  margin-left: 5%;
+  font-family: 'Roboto Slab', serif;
+}
+
+#main .wat img
+{
+  width: 350px;
+  height: 220px;
+  float: right;
+  margin-right: 8%;
+}
+
+
+#second .doel h3
+{
+  float: right;
+  margin-right: 25%;
+  margin-top: 5%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+#second .doel p
+{
+  float: right;
+  margin-right: 5%;
+  font-family: 'Roboto Slab', serif;
+  text-align: right;
+}
+
+#second .doel img
+{
+  float: left;
+  margin-left: 8%;
+  width: 300px;
+  height: 175px;
+}
+
+#third .uren h4
+{
+  margin-top: 8%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+#third .uren table,th,td
+{
+  padding: 40px;
+  border: 3px solid black;
+  border-collapse: collapse;
+}
+#main .clear
+{
+  clear: both;
+}
+
+#second .clear
+{
+  clear: both;
+}
+#third .clear
+{
+  clear: both;
+}
+#icon
+{
+  width: 100%;
+  height: 300px;
+  background-color:rgb(180, 173, 179) ;
+}
+
+#icon img
+{
+  width: 50px;
+  height: 50px;
+}
+
+#icon img
+{
+  margin-left: 5%;
+  margin-top: 5%;
+  float: left;
+}
+
+#icon img:hover
+{
+  background-color: white;
+}
+
+#icon iframe
+{
+  float: right;
+  width: 450px;
+  height: 200px;
+  margin-right: 10%;
+  margin-top: 2%;
+  border-radius: 25px;
+  border-color: black;
+}
+
+#icon .copyright P
+{
+  margin-top: 2%;
+  float: left;
+  font-size: 10px;
+}
+
+#icon .clear
+{
+  clear: both;
+}
+
+body
+{
+  background-color: rgb(116, 119, 121);
+}

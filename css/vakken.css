@@ -1,3 +1,10 @@
+#main .opmaak img
+{
+  width: 90%;
+  height: 200px;
+  border-radius: 10px;
+}
+
 #main .vakken h1
  {
    font-family: 'Montserrat', sans-serif;
@@ -13,7 +20,7 @@
 #main .kernvakken p
 {
   width: 80%;
-  height: 100px;
+  height: 105px;
   background-color:rgb(103, 100, 95) ;
   float:left;
   margin-left: 10%;
@@ -73,11 +80,18 @@
 #overig1 .overig p
 {
   width: 80%;
-  height: 100px;
+  height: 105px;
   background-color:rgb(103, 100, 95) ;
   float:left;
   margin-left: 10%;
   font-family: 'Roboto Slab', serif;
+}
+#overig1 .overig img
+{
+  float: left;
+  width: 100px;
+  height: 100px;
+  margin-left: 5%;
 }
 
 
@@ -86,6 +100,53 @@
   clear:both;
 }
 
+#icon
+{
+  width: 100%;
+  height: 300px;
+  background-color:rgb(180, 173, 179) ;
+}
+
+#icon img
+{
+  width: 50px;
+  height: 50px;
+}
+
+#icon img
+{
+  margin-left: 5%;
+  margin-top: 5%;
+  float: left;
+}
+
+#icon img:hover
+{
+  background-color: white;
+}
+
+#icon iframe
+{
+  float: right;
+  width: 450px;
+  height: 200px;
+  margin-right: 10%;
+  margin-top: 2%;
+  border-radius: 25px;
+  border-color: black;
+}
+
+#icon .copyright P
+{
+  margin-top: 2%;
+  float: left;
+  font-size: 10px;
+}
+
+#icon .clear
+{
+  clear: both;
+}
 
 body {
   background-color: rgb(136, 136, 143);

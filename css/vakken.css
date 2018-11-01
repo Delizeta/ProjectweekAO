@@ -4,6 +4,8 @@
      padding: 0;
      overflow: hidden;
      background-color: white;
+     font-family: 'Montserrat', sans-serif;
+
 }
 
 .navigatie li {
@@ -15,6 +17,8 @@
       text-align: center;
       padding: 14px 16px;
       text-decoration: none;
+      font-family: 'Montserrat', sans-serif;
+
 }
 li a:hover {
       background-color: #282828;
@@ -34,11 +38,15 @@ li a:hover {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+
 }
 
 .dropdown {
     float: left;
     overflow: hidden;
+    font-family: 'Montserrat', sans-serif;
+
 }
 
 .dropdown .dropbtn {
@@ -168,7 +176,7 @@ li a:hover {
 {
   width: 80%;
   height: 105px;
-  
+
   float:left;
   margin-left: 10%;
   font-family: 'Roboto Slab', serif;

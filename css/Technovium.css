@@ -1,0 +1,12 @@
+.textbox img
+{
+  max-width: 40%;
+  max-height: 40%;
+  border-radius: 5px;
+}
+
+.bodytext p
+{
+  font-family: 'Roboto Slab', serif;
+  font-size: 25px;
+}

@@ -15,7 +15,7 @@
 {
   width: 100%;
   height: 600px;
-  background-color:rgb(54, 52, 52) ;
+  
 }
 #main .kernvakken p
 {
@@ -44,7 +44,7 @@
 {
   width: 100%;
   height: 600px;
-  background-color:rgb(103, 100, 95);
+
 }
 
 #Talen .Talen img
@@ -75,7 +75,7 @@
 {
   width: 100%;
   height: 600px;
-  background-color:rgb(54, 52, 52) ;
+
 }
 #overig1 .overig p
 {
@@ -146,8 +146,4 @@
 #icon .clear
 {
   clear: both;
-}
-
-body {
-  background-color: rgb(136, 136, 143);
 }
